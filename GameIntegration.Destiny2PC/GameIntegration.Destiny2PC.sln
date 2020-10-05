@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30323.103
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameIntegration.Destiny2", "..\GameIntegration.Destiny2\GameIntegration.Destiny2.csproj", "{D9100DAC-3DCA-4F3E-AE94-EAF8D99837DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9100DAC-3DCA-4F3E-AE94-EAF8D99837DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9100DAC-3DCA-4F3E-AE94-EAF8D99837DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9100DAC-3DCA-4F3E-AE94-EAF8D99837DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9100DAC-3DCA-4F3E-AE94-EAF8D99837DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC6868D-FAD2-459E-94DF-B29C46FC74CF}
+	EndGlobalSection
+EndGlobal
